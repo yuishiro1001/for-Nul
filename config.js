@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Chào mấy con đí',
-    introDesc: `mấy bọn dở hơi thần kinh làyyyyy
-    độ ngu ngang ngửa tau bày đặt biểu tau ngu
-    cuts cuts
-    hí hí lêu lêu `,
-    btnIntro: 'ấn vào đây đê xong nói chuyện tiếp',
-    title: 'chán mấy con đí chúng mầy lém 😙',
-    desc: 'Tau có ngu khummm ',
-    btnYes: 'Đương nhiên là không rùi',
-    btnNo: 'Đcm ngu vloz ngu đ cả được',
-    question:'đấy bảo rùi t hơi bj thông min',
-    btnReply: 'Đó trả mầy ',
-    reply: 'Đúng gùi con Ngọc thông minh lắm luônnnnn',
-    mess: 'chuẩn bomay thông minh nhất nhóm ',
-    messDesc: ' lời cuối chúc mấy con đí thi tốt đạt điểm cao ',
-    btnAccept: ' ok ',
+    introTitle: 'đức àaaa',
+    introDesc: `em là hoa hướng dương
+    tình yêu em vẫn luôn nhìn về 1 hướng
+    anh làm em vấn vương
+    dõi theo anh mắt em ngập tràn ánh dương`,
+    btnIntro: 'đến đây với em nào',
+    title: 'đến gần hơn thử xem nào',
+    desc: 'một mình tít trên cao anh không thấy lẻ loi sao baby ',
+    btnYes: 'lẻ loi chứ nên t đang đến với m đây',
+    btnNo: 'không tao vẫn rất bình thường',
+    question:'anh giờ sao? sao không nhanh tới bên nhauuuu',
+    btnReply: 'yêu bé ',
+    reply: 'anh yêu bé mà. anh sẽ cố gắng mang đến cho bé những điều tốt đẹp nhất',
+    mess: 'yêu nhìu nhìu <33333 ',
+    messDesc: ' tối nay lại call haaaaa ',
+    btnAccept: ' oke bé yêuuuu',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
